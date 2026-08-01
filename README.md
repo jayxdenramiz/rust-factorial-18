@@ -1,2 +1,4 @@
-# rust-factorial-18
+# Rust Factorial 18
+
 Multiplying recursive integer values in Rust.
+
